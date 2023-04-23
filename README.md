@@ -14,11 +14,15 @@
 - 
 - <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Enabled internet info services (IIS)
+- Install PHP Manager
+- Rewrite Module
+- Install MySQL & set up username and password
+- Configure permissions
+- Register PHP from within IIS
+- Enable Extensions
+- Assign Permissions
+- Install Heidi SQL & set up username and password
 
 
 <h2>Installation Steps</h2>
