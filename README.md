@@ -54,8 +54,10 @@ Enable php extension by going to IIS, sites -> Default -> osTicket
 </p>
 <p>
 Assign Permissions:
+  
 Disable inheritance -> Remove All
-New Permissions -> Everyone -> All.
+  
+New Permissions -> Everyone -> All
 </p>
 <br />
 
@@ -63,7 +65,7 @@ New Permissions -> Everyone -> All.
 <img src="https://i.imgur.com/BLMrHu8.png" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Continue Setting up osticket in the browser (install heidei sql is something that helps you to connects to the database to interact with it.)
 </p>
 <br />
 
@@ -71,7 +73,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/d35Sbjq.png" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Create a database within heidi called “osTicket”
 </p>
 <br />
 
@@ -79,6 +81,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/FSJ6MCQ.png" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Installation Complete ✅
 </p>
 <br />
