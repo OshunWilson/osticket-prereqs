@@ -74,7 +74,7 @@ New Permissions -> Everyone -> All
 <img src="https://i.imgur.com/BLMrHu8.png" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Installing heidei sql is something that helps you to connects to the database to interact with it.
+Installing HeideiSql is something that helps you to connects to the database to interact with it.
 </p>
 <br />
 
@@ -82,7 +82,7 @@ Installing heidei sql is something that helps you to connects to the database to
 <img src="https://i.imgur.com/d35Sbjq.png" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Create a database within heidi called “osTicket”
+Create a database within HeidiSql called “osTicket”
 </p>
 <br />
 
