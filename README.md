@@ -38,7 +38,7 @@ IIS (Internet Information Services) - A web server that allows the computer to s
 <img src="https://i.imgur.com/k8bQKmy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Open IIS as an admin & register PHP from within IIS
+Configuartion inside IIS. Open IIS as an admin & register PHP from within IIS.
 </p>
 <br />
 
@@ -47,6 +47,14 @@ Open IIS as an admin & register PHP from within IIS
 </p>
 <p>
 Enable php extension by going to IIS, sites -> Default -> osTicket
+  
+Enable: php_imap.dll
+  
+Enable: php_intl.dll
+  
+Enable: php_opcache.dll
+  
+PHP Extensions are plug-ins that provides a function that can be used by many applications.
 </p>
 <br />
 
@@ -66,7 +74,7 @@ New Permissions -> Everyone -> All
 <img src="https://i.imgur.com/BLMrHu8.png" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Continue Setting up osticket in the browser (install heidei sql is something that helps you to connects to the database to interact with it.)
+Installing heidei sql is something that helps you to connects to the database to interact with it.
 </p>
 <br />
 
