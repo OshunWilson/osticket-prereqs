@@ -32,6 +32,7 @@
 </p>
 <p>
 install / Enable IIS in windows WITH CGI World Wide Web Services -> Application Development Features -> [X] CGI</p>
+IIS (Internet Information Services) - A web server that allows the computer to serve up websites. You will need to set up and configurate IIS in order to run osTicket
 <br />
 <p>
 <img src="https://i.imgur.com/k8bQKmy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
